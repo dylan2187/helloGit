@@ -13,5 +13,6 @@ public class HelloTest {
         Hello hello = new Hello();
         System.out.println(hello.HelloGit("wangkai"));
         System.out.println("创建分支2");
+        System.out.println("master");
     }
 }
