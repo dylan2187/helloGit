@@ -12,5 +12,6 @@ public class HelloTest {
     public void Hellotest() {
         Hello hello = new Hello();
         System.out.println(hello.HelloGit("wangkai"));
+        System.out.println("branch");
     }
 }
